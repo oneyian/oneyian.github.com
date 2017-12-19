@@ -1,0 +1,46 @@
+# Basic
+title: John
+subtitle: 仗剑走天涯
+welcome_message: 这个人很懒，什么都没有。
+description: Hello， 我是王毅安(@John)
+creator: <a href="http://codersworld.cn">@John</a>
+
+url: "http://codersworld.cn"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: slate
+
+blog_button:
+    title: 博客
+    description: 访问博客
+
+nav:
+    - {title: 简历, description: 我的简历, url: 'https://message.codersworld.cn'}
+    - {title: 关于, description: 了解更多关于我, url: 'http://about.codersworld.cn'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: John
+    # duoshuo:
+# Social
+social:
+    weibo: John
+    github: John
+    twitter: John
+    gplus: 107108267983477358170
+    mail: wangyian1997@foxmail.com
+
+# Google Analytics
+ga:
+    id: UA-25719337-1
+    host: codersworld.cn
