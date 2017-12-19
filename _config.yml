@@ -3,9 +3,9 @@ title: 游客
 subtitle: 仗剑走天涯
 welcome_message: 这个人很懒，什么都没有。
 description: 在下王毅安(@John)，请多指教。
-creator: <a href="http://codersworld.cn">@John</a>
+creator: <a href="http://oneyian.cn">@John</a>
 
-url: "http://codersworld.cn"
+url: "http://oneyian.cn"
 
 permalink: /:year/:month/:title/
 
@@ -20,8 +20,8 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: 简历, description: 我的简历, url: 'http://message.codersworld.cn'}
-    - {title: 关于, description: 了解更多关于我, url: 'http://about.codersworld.cn'}
+    - {title: 简历, description: 我的简历, url: 'http://message.oneyian.cn'}
+    - {title: 关于, description: 了解更多关于我, url: 'http://about.oneyian.cn'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -35,7 +35,7 @@ comment:
 # Social
 social:
     weibo: 3927928511
-    github: 15079244845
+    github: oneyian
     twitter: John_YiAn
     gplus: 107600099440304236442
     mail: wangyian1997@foxmail.com
@@ -43,4 +43,4 @@ social:
 # Google Analytics
 ga:
     id: UA-25719337-1
-    host: codersworld.cn
+    host: oneyian.cn
