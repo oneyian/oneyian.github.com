@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Hello World
+title: Markdown 语法和 MWeb 写作使用说明
 date: 2017-12-19 17:15:00
 ---
-
-# Markdown 语法和 MWeb 写作使用说明
 
 ## Markdown 的设计哲学
 
