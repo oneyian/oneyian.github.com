@@ -5,4 +5,4 @@ date: 2017-12-19 16:20:0.000000000 +09:00
 ---
 
 Hello World
-![John]({{ site.url }}assets/images/avatar.jpg)
+![John](/assets/images/avatar.jpg)
