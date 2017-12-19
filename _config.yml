@@ -1,8 +1,8 @@
 # Basic
-title: John
+title: 游客
 subtitle: 仗剑走天涯
 welcome_message: 这个人很懒，什么都没有。
-description: Hello， 我是王毅安(@John)
+description: 在下王毅安(@John)，请多指教。
 creator: <a href="http://codersworld.cn">@John</a>
 
 url: "http://codersworld.cn"
@@ -20,7 +20,7 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: 简历, description: 我的简历, url: 'https://message.codersworld.cn'}
+    - {title: 简历, description: 我的简历, url: 'http://message.codersworld.cn'}
     - {title: 关于, description: 了解更多关于我, url: 'http://about.codersworld.cn'}
 
 # Pagination
@@ -34,10 +34,10 @@ comment:
     # duoshuo:
 # Social
 social:
-    weibo: John
-    github: John
-    twitter: John
-    gplus: 107108267983477358170
+    weibo: 3927928511
+    github: 15079244845
+    twitter: John_YiAn
+    gplus: 107600099440304236442
     mail: wangyian1997@foxmail.com
 
 # Google Analytics
