@@ -5,7 +5,7 @@ welcome_message: 念念不忘，必有回响
 description: 在下王毅安(@John)，请多指教。
 creator: <a href="https://oneyian.cn">@John</a>
 
-url: ""
+url: "https://oneyian.cn"
 
 permalink: /:year/:month/:title/
 
@@ -21,7 +21,7 @@ blog_button:
 
 nav:
     - {title: 简历, description: 我的简历, url: 'https://message.oneyian.cn'}
-    - {title: 关于, description: 了解更多关于我, url: 'https//about.oneyian.cn'}
+    - {title: 关于, description: 了解更多关于我, url: 'https://about.oneyian.cn'}
 
 # Pagination
 gems: [jekyll-paginate]
