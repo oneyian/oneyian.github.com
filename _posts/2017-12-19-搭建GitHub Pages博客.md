@@ -8,7 +8,7 @@ date: 2017-12-19 14:45:00
 
 #### 第一话 
 
-> ##### GitHub Pages 配置
+> ### GitHub Pages 配置
 > 
 > 1. 前往 [GitHub](https://github.com) 注册你的个人GitHub账户。个人建议 `UserName` 填写短位字母，这样成型的博客地址也就更友好。`（已经创建过账户的可以去 个人设置 -> Acount -> Change username 修改）`
 > 
@@ -19,8 +19,8 @@ date: 2017-12-19 14:45:00
 > ![2](/assets/2017-12-20/2.jpg)
 > 
 > 4. 接下来是将刚创建的 `存储库` 下载到本地，有两个方式：
->     ###### GitHub Desktop `推荐`
->     ###### 终端命令行操作
+> ###### GitHub Desktop `推荐`
+> ###### 终端命令行操作
 > 
 > 5. 将 GitHub 的 `存储库` 下载下来后，前往 [主题下载](https://github.com/onevcat/vno-jekyll) `【本博客使用的主题】` 或者自行下载其他主题，下载完毕直接解压全部文件复制到自己下载到本地的 `存储库` 里，然后上传到 GitHub.
 > 
