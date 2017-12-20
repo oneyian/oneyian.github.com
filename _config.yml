@@ -3,9 +3,9 @@ title: 游客
 subtitle: 仗剑走天涯
 welcome_message: 念念不忘，必有回响
 description: 在下王毅安(@John)，请多指教。
-creator: <a href="http://oneyian.cn">@John</a>
+creator: <a href="https://oneyian.cn">@John</a>
 
-url: "http://oneyian.cn"
+url: "https://oneyian.cn"
 
 permalink: /:year/:month/:title/
 
@@ -20,8 +20,8 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: 简历, description: 我的简历, url: 'http://message.oneyian.cn'}
-    - {title: 关于, description: 了解更多关于我, url: 'http://about.oneyian.cn'}
+    - {title: 简历, description: 我的简历, url: 'https://message.oneyian.cn'}
+    - {title: 关于, description: 了解更多关于我, url: 'https//about.oneyian.cn'}
 
 # Pagination
 gems: [jekyll-paginate]
