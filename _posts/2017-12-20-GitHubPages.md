@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 搭建 GitHub Pages 博客
+title: 基于 GitHub Pages 搭建博客
 date: 2017-12-20 14:45:00
 tags: 创世纪
 ---
@@ -36,10 +36,10 @@ tags: 创世纪
 
 ##### 饮水思源：
 
-[OnevCat](https://onevcat.com/)  `万恶之源，有毛病找他` 
+[OnevCat](https://onevcat.com/)  `万恶之源` 
 
-[Jekyll](https://www.jekyll.com.cn) `文档之源，有问题进来` 
+[Jekyll](https://www.jekyll.com.cn) `框架文档` 
 
-[Netlify](https://app.netlify.com/) `将自己的SSL证书绑定上去（他们也免费送，还有绑定自己买的域名）`
+[Netlify](https://app.netlify.com/) `绑定域名/SSL`
 
 
