@@ -8,10 +8,18 @@ tags: Mac App
 ### 翻译App
 ![icon](/assets/2017-12-25/1.jpg)
 
-##### 今天圣诞节，也没什么还好东西送给你；
+#### 今天圣诞节，也没什么好东西送给你；
+
+#### 所 以
+
 `你在此地不要走动，我去给你爬个有道翻译的API，然后给你写个垃圾App`
 
 ![image](/assets/2017-12-25/2.jpg)
+
+### 互译
+### 支持以下列表 
+
+![image](/assets/2017-12-25/3.jpg)
 
 下载地址：[传送门](http://down.codersworld.cn/Translation.zip)
 
