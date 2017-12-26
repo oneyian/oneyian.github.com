@@ -20,7 +20,7 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: 简历, description: 我的简历, url: 'https://message.oneyian.cn'}
+    - {title: 简历, description: 我的简历, url: 'https://self.oneyian.cn'}
     - {title: 关于, description: 了解更多关于我, url: 'https://me.oneyian.cn'}
 
 # Pagination
