@@ -21,7 +21,7 @@ blog_button:
 
 nav:
     - {title: 简历, description: 我的简历, url: 'https://message.oneyian.cn'}
-    - {title: 关于, description: 了解更多关于我, url: 'https://about.oneyian.cn'}
+    - {title: 关于, description: 了解更多关于我, url: 'https://me.oneyian.cn'}
 
 # Pagination
 gems: [jekyll-paginate]
