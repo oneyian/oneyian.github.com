@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Translation
-date: 2017-12-25 16:14:00
+date: 2017-12-24 16:14:00
 tags: Mac App
 ---
 
@@ -17,7 +17,7 @@ tags: Mac App
 ![image](/assets/2017-12-25/2.jpg)
 
 ### 互译
-### 支持以下列表 
+支持以下列表 
 
 ![image](/assets/2017-12-25/3.jpg)
 
