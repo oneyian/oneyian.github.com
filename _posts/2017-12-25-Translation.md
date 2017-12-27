@@ -21,7 +21,7 @@ tags: Mac App
 
 ![image](/assets/2017-12-25/3.jpg)
 
-下载地址：[传送门](http://down.codersworld.cn/Translation.zip)
+下载地址：[传送门](https://oneyian.oss-cn-shenzhen.aliyuncs.com/Translation.zip)
 
 源码地址：[GitHub 传送门](https://github.com/oneyian/Translation)
 
