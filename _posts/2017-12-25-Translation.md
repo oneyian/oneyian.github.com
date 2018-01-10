@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Translation
+title: 翻译小工具
 date: 2017-12-25 16:14:00
 tags: Mac App
 ---
