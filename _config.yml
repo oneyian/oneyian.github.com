@@ -1,9 +1,9 @@
 # Basic
-title: OneYiAn`
+title: One`YiAn
 subtitle: “每生产一个BUG，就有一只程序猿会被祭天。”
 welcome_message: 熟读《iOS开发—五年编译，三年开发》此书，正在苦读《Swift开发》以及其他小黄书；您可以在 <a href="https://github.com/oneyian">GitHub</a> 查看我的开源项目；
 description: 在下王毅安(@John)，混吃等死的正经开发者；目前正在打磨属于自己的那把 “剑” ，请多指教。
-creator: <a href="https://oneyian.cn">@John</a>
+creator: <a href="https://oneyian.com">@John</a>
 
 url: "https://oneyian.cn"
 
@@ -20,8 +20,8 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: 简历, description: 我的简历, url: 'https://oneyian.cn/ReadMe'}
-    - {title: 关于, description: 了解我的世界, url: 'https://oneyian.cn/About'}
+    - {title: 简历, description: 我的简历, url: 'https://oneyian.com/ReadMe'}
+    - {title: 关于, description: 了解我的世界, url: 'https://oneyian.com/About'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -38,9 +38,9 @@ social:
     github: oneyian
     twitter: oneyian_
     gplus: 107600099440304236442
-    mail: wya@oneyian.cn
+    mail: wya@oneyian.com
 
 # Google Analytics
 ga:
     id: UA-111544047-1
-    host: oneyian.cn
+    host: oneyian.com
