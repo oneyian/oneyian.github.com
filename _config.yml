@@ -1,8 +1,8 @@
 # Basic
 title: Oneyian`
 subtitle: “只有魔法才能打败魔法”
-welcome_message: 熟读《iOS—五年开发，三年编译》，正在苦读《Swift开发》以及其他小黄书；您可以在 <a href="https://github.com/oneyian">GitHub</a> 查看我的开源项目；
-description: 在下王毅安(@John)，混吃等死的正经开发者；目前正在打磨属于自己的那把 “剑” ，请多指教。
+welcome_message: 正在苦读《Swift开发》；您可以在 <a href="https://github.com/oneyian">GitHub</a> 查看我的开源项目；
+description: 在下王毅安(@John)，正经的iOS开发者；请多指教。
 creator: <a href="https://oneyian.com">@John</a>
 
 url: "https://oneyian.com"
@@ -20,7 +20,7 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: 简历, description: 我的简历, url: 'https://oneyian.com/ReadMe'}
+    - {title: 简介, description: 我的简介, url: 'https://oneyian.com/ReadMe'}
     - {title: 关于, description: 了解我的世界, url: 'https://oneyian.com/About'}
 
 # Pagination
