@@ -1,8 +1,8 @@
 # Basic
 title: Oneyian`
-subtitle: “要用膜法来对付膜法”
-welcome_message: 正在苦读《Swift开发》；您可以在 <a href="https://github.com/oneyian">GitHub</a> 查看我的开源项目；
-description: 在下王毅安(@Jason)，正经的iOS开发者；请多指教。
+subtitle: “手握日月摘星辰”
+welcome_message: 正在学习 Swift 与 SwiftUI；您可以在 <a href="https://github.com/oneyian">GitHub</a> 查看我的开源项目；
+description: 在下王益安(@oneyian)，正经的 iOS 开发者；请多指教。
 creator: <a href="https://oneyian.com">@Jason</a>
 
 url: "https://oneyian.com"
@@ -44,6 +44,3 @@ social:
 ga:
     id: UA-111544047-1
     host: oneyian.com
-
-# 账号：dna0755@126.com
-# 密码：Gx20130508
